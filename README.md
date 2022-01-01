@@ -1,8 +1,8 @@
-# DISTO: A Really, REALLY basic Discord Api Wrapper for Python 3.10
+# DISTO: A Really, REALLY basic Discord API Wrapper for Python 3.10
 
 ### "Do I Seriously have To write my Own?"
 
-Disto is a basic Discord API Wrapper written on Python 3.10, used for mking discord bots using the Discord REST API and Gateway,
+Disto is a basic Discord API Wrapper written on Python 3.10, used for making discord bots using the Discord REST API and Gateway,
 
 Example Code:
 ```python
